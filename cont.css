@@ -185,7 +185,7 @@ a:hover {
 
     .note textarea {
         border: 3px solid rgb(47, 89, 255);
-        width: 493px;
+        width: 466px;
         height: 120px;
     }
 
@@ -236,7 +236,7 @@ a:hover {
     }
 
     .fn input {
-        width: 245px;
+        width: 230px;
         height: 58px;
         border: 3px solid rgb(41, 14, 245);
 
@@ -244,7 +244,7 @@ a:hover {
     }
 
     .ln input {
-        width: 245px;
+        width: 230px;
         height: 58px;
         border: 3px solid rgb(41, 14, 245);
 
