@@ -11,7 +11,7 @@
 
 nav {
     background-color: cadetblue;
-    height: 80px;
+    height: 100px;
     width: 100%;
 
 }
@@ -75,13 +75,13 @@ a:hover {
 
 .name {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 
 }
 
 .fn input {
     width: 370px;
-    height: 78px;
+    height: 50px;
     border: 3px solid rgb(10, 4, 98);
 
 
@@ -95,7 +95,7 @@ a:hover {
 
 .ln input {
     width: 370px;
-    height: 78px;
+    height: 50px;
     border: 3px solid rgb(8, 0, 72);
 
 
@@ -120,7 +120,7 @@ a:hover {
 .note textarea {
     border: 3px solid rgb(47, 89, 255);
     width: 790px;
-    height: 250px;
+    height: 120px;
 }
 
 .note h5 {
@@ -156,6 +156,12 @@ a:hover {
         padding: 7px 13px;
         border-radius: 7px;
 
+    }
+
+    .note textarea {
+        border: 3px solid rgb(47, 89, 255);
+        width: 500px;
+        height: 105px;
     }
 
     label.logo img {
@@ -194,7 +200,7 @@ a:hover {
         border: none;
         width: 200px;
         height: 40px;
-        background: #000000;
+        background: #367892;
         color: #1F4690;
         font-size: 18px;
         letter-spacing: 1px;
@@ -205,16 +211,16 @@ a:hover {
     }
 
     .fn input {
-        width: 370px;
-        height: 78px;
+        width: 230px;
+        height: 58px;
         border: 3px solid rgb(10, 4, 98);
 
 
     }
 
     .ln input {
-        width: 370px;
-        height: 78px;
+        width: 230px;
+        height: 58px;
         border: 3px solid rgb(41, 14, 245);
 
 
@@ -276,10 +282,11 @@ h3 {
 }
 
 .btn {
+
     outline: none;
     border: none;
-    width: 300px;
-    height: 50px;
+    width: 200px;
+    height: 45px;
     background: #7f9cab;
     color: #00040a;
     font-size: 18px;
