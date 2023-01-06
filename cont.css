@@ -144,7 +144,7 @@ a:hover {
 
 
 
-@media (max-width: 800px) {
+@media (max-width:  576px) {
     label.logo {
         font-size: 30px;
         padding-left: 1px;
@@ -185,8 +185,8 @@ a:hover {
 
     .note textarea {
         border: 3px solid rgb(47, 89, 255);
-        width: 445px;
-        height: 105px;
+        width: 493px;
+        height: 120px;
     }
 
     label.logo img {
@@ -225,7 +225,7 @@ a:hover {
         border: none;
         width: 200px;
         height: 40px;
-        background: #367892;
+        background: #f2f5f7;
         color: #1F4690;
         font-size: 18px;
         letter-spacing: 1px;
@@ -236,15 +236,15 @@ a:hover {
     }
 
     .fn input {
-        width: 210px;
+        width: 245px;
         height: 58px;
-        border: 3px solid rgb(10, 4, 98);
+        border: 3px solid rgb(41, 14, 245);
 
 
     }
 
     .ln input {
-        width: 210px;
+        width: 245px;
         height: 58px;
         border: 3px solid rgb(41, 14, 245);
 
@@ -255,7 +255,7 @@ a:hover {
             display: flex;
             justify-content: space-between;
             padding: 29px;
-            background-color: #c96508;
+            background-color: #0890c1;
             height: 120px;
         }
         .Orcontact p {
